@@ -34,7 +34,7 @@ const trips = [
     favoriteActivity: "Pizza, Wine, and New Girl",
   },
   {
-    name: "New York City, USA",
+    name: "New York City, New York",
     coords: [40.7128, -74.006],
     photos: [
         "./Photos/NYC/NYC.jpeg",
